@@ -1,0 +1,4 @@
+﻿Method,MAE,RMSE,MAPE
+Optical Flow,0.7099,1.3306,93.31
+Optical Flow + KLT,0.652,1.2979,83.03
+Windowed + KLT,0.4773,1.1365,53.06

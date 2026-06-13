@@ -1,0 +1,26 @@
+All labeled videos
+--------------------------------------------------
+Count: 22
+MAE: 0.4773 m/s
+RMSE: 1.1365 m/s
+Median AE: 0.1001 m/s
+MAPE: 53.06 %
+R2: 0.1168
+
+Without StJulien
+--------------------------------------------------
+Count: 21
+MAE: 0.2698 m/s
+RMSE: 0.4904 m/s
+Median AE: 0.0835 m/s
+MAPE: 51.75 %
+R2: 0.0727
+
+Without top 3 difficult high-speed samples
+--------------------------------------------------
+Count: 19
+MAE: 0.1757 m/s
+RMSE: 0.3453 m/s
+Median AE: 0.0779 m/s
+MAPE: 51.02 %
+R2: -0.7931
