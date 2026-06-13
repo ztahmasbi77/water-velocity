@@ -1,0 +1,6 @@
+﻿Name,win_start,win_end,predicted_speed_mps,Real_mps,Abs_Error_mps
+RiverNoce_12_fps,0.0,2.0,0.4468,0.429,0.0178
+RiverNoce_12_fps,1.0,3.0,0.432,0.429,0.003
+RiverNoce_12_fps,2.0,4.0,0.4225,0.429,0.0065
+RiverNoce_12_fps,3.0,5.0,0.4285,0.429,0.0005
+RiverNoce_12_fps,3.833333333333333,5.833333333333333,0.4283,0.429,0.0007

@@ -1,0 +1,10 @@
+﻿Name,win_start,win_end,predicted_speed_mps,Real_mps,Abs_Error_mps
+LaMorge_orthorectified,0.0,2.0,0.3969,0.388,0.0089
+LaMorge_orthorectified,1.0,3.0,0.3896,0.388,0.0016
+LaMorge_orthorectified,2.0,4.0,0.3888,0.388,0.0008
+LaMorge_orthorectified,3.0,5.0,0.3887,0.388,0.0007
+LaMorge_orthorectified,4.0,6.0,0.3921,0.388,0.0041
+LaMorge_orthorectified,5.0,7.0,0.4049,0.388,0.0169
+LaMorge_orthorectified,6.0,8.0,0.4205,0.388,0.0325
+LaMorge_orthorectified,7.0,9.0,0.4264,0.388,0.0384
+LaMorge_orthorectified,7.6,9.6,0.4389,0.388,0.0509

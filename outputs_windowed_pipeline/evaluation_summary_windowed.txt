@@ -1,0 +1,10 @@
+Best model: RandomForest
+Grouped Leave-One-Video-Out Evaluation
+MAE: 0.4773 m/s
+RMSE: 1.1365 m/s
+MAPE: 53.06 %
+Window: 2.0 s
+Stride: 1.0 s
+Sample FPS: 8.0
+Max width: 720
+Window samples: 556

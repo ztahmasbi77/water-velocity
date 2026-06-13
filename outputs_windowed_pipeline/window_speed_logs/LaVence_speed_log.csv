@@ -1,0 +1,5 @@
+﻿Name,win_start,win_end,predicted_speed_mps,Real_mps,Abs_Error_mps
+LaVence,0.0,2.0,0.6432,0.651,0.0078
+LaVence,1.0,3.0,0.6709,0.651,0.0199
+LaVence,2.0,4.0,0.6318,0.651,0.0192
+LaVence,3.0,5.0,0.7149,0.651,0.0639
