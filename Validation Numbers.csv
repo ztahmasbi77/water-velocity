@@ -1,0 +1,25 @@
+Number,Name,Real (m/s)
+1,Arrow_Gopro_Seeded_notStabilised,0.413
+2,Arrow_GoPro_Seeded_Stabilised,0.413
+3,Arrow_Gopro_UnSeeded_notStabilised,0.413
+4,Arrow_GoPro_Unseeded_Stabilised,0.413
+5,Arrow_UAS_Seeded_notStabilised,0.561
+6,Arrow_UAS_Seeded_Stabilised,0.561
+7,Arrow_UAS_Unseeded_notStabilised,0.561
+8,Arrow_UAS_Unseeded_Stabilised,0.561
+9,AlpineStabilised,0.821
+10,RiverBradano_Stabilised,0.817
+11,RiverBradano_NonStabilised,0.817
+12,1_Castor_Canada,1.381
+13,2_Castor_Canada,-
+14,3_Castor_Canada,-
+15,4_Castor_Canada,0.141
+16,LaMorge_orthorectified,0.388
+17,BrentaFLIR,0.384
+18,Brenta1,0.384
+19,LaVence,0.651
+20,RiverNoce_12_fps,0.429
+21,Thalhofen,1.791
+22,Tiber,2.331
+23,SalmonRiver_notStabilised,0.667
+24,StJulien,6.001
